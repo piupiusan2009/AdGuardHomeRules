@@ -34,10 +34,11 @@
 - https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt
 ### 中国大陆用户特供URL
 #### 放在黑名单区
-- https://mirror.ghproxy.com/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt 或者 https://mirror.ghproxy.com/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all-lite.txt
-- https://mirror.ghproxy.com/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
+- https://ghfast.top/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt 或者 
+  https://ghfast.top/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all-lite.txt
+- https://ghfast.top/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
 #### 放在白名单区
-- https://mirror.ghproxy.com/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
+- https://ghfast.top/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
 #### 动漫&漫画网站定制规则
 - 三个等级，互不相同，请叠加使用，越高等级越容易误杀
 - 目前这个已停止维护
